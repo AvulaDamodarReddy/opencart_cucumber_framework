@@ -1,0 +1,39 @@
+20:06:15.321 [main] TRACE - Resolving type for handle worksheetf539doctype
+20:06:15.347 [main] TRACE - Resolving type for handle ctworksheet530dtype
+20:06:15.362 [main] TRACE - Resolving type for handle ctsheetdata8408type
+20:06:15.367 [main] TRACE - Resolving type for handle ctrowdd39type
+20:06:15.373 [main] TRACE - Resolving type for handle ctcell842btype
+20:06:15.382 [main] TRACE - Resolving type for handle stcellrefe4e0type
+20:06:15.398 [main] TRACE - Resolving type for handle ctcols627ctype
+20:06:15.405 [main] TRACE - Resolving type for handle ctcola95ftype
+20:06:15.431 [main] TRACE - Resolving type for handle cthyperlinks6416type
+20:06:15.434 [main] TRACE - Resolving type for handle cthyperlink0c85type
+20:06:15.442 [main] TRACE - Resolving type for handle stxstringf179type
+20:06:15.446 [main] TRACE - Resolving type for handle stcelltypebf95type
+20:06:30.555 [main] INFO  - Goto my account-->Click on Login.. 
+20:06:31.169 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:06:31.171 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:06:31.173 [main] DEBUG - Parsing relationship: /_rels/.rels
+20:06:31.238 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+20:06:44.424 [main] INFO  - Goto my account-->Click on Login.. 
+20:06:45.407 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:06:45.409 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:06:45.410 [main] DEBUG - Parsing relationship: /_rels/.rels
+20:06:45.428 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+20:06:58.717 [main] INFO  - Goto my account-->Click on Login.. 
+20:06:59.227 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:06:59.229 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:06:59.230 [main] DEBUG - Parsing relationship: /_rels/.rels
+20:06:59.278 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:09:02.536 [main] INFO  - Goto my account-->Click on Login.. 
+09:09:03.368 [main] INFO  - Entering email and password.. 
+09:09:04.064 [main] INFO  - clicked on login button...
+09:10:32.840 [main] INFO  - Goto my account-->Click on Login.. 
+09:10:33.365 [main] INFO  - Entering email and password.. 
+09:10:33.759 [main] INFO  - clicked on login button...
+09:35:37.946 [main] INFO  - Goto my account-->Click on Login.. 
+09:35:38.592 [main] INFO  - Entering email and password.. 
+09:35:39.325 [main] INFO  - clicked on login button...
+09:38:13.813 [main] INFO  - Goto my account-->Click on Login.. 
+09:38:14.563 [main] INFO  - Entering email and password.. 
+09:38:15.221 [main] INFO  - clicked on login button...
